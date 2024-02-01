@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-9999esto es de luis yo edito la segu nda linia
-=======
-esto es de luis ju78uygn8
->>>>>>> branch 'main' of https://github.com/lmontiel23/M05_Entorns.git
+esto es de luis yo edito la segu nda linia
